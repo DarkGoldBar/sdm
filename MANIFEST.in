@@ -1,0 +1,2 @@
+recursive-include resource *
+recursive-include sdm/data *

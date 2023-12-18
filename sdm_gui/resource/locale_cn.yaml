@@ -1,0 +1,59 @@
+translate:
+  - id: 101
+    label: 文件
+  - id: 102
+    label: "打开 (&o)\tctrl+o"
+  - id: 103
+    label: "保存 (&s)\tctrl+s"
+  - id: 104
+    label: "关闭 (&w)\tctrl+w"
+  - id: 105
+    label: 导出
+  - id: 131
+    label: "撤销 (&z)\tctrl+z"
+  - id: 132
+    label: "恢复撤销 (&y)\tctrl+y"
+  - id: 133
+    label: 重新载入
+  - id: 134
+    label: "编辑长度角度 (&m)\tctrl+m"
+  - id: 135
+    label: 找键
+  - id: 136
+    label: 清除
+  - id: 137
+    label: 经验法
+  - id: 138
+    label: 周期性经验法
+  - id: 140
+    label: 对称性转换
+  - id: 141
+    label: 转为P1
+  - id: 142
+    label: 转为原胞
+  - id: 143
+    label: 转为非对称单元
+  - id: 144
+    label: 周期性转换
+  - id: 145
+    label: 原子移动到胞内
+  - id: 146
+    label: 分子移动到胞内
+  - id: 147
+    label: 原子拼成分子
+  - id: 148
+    label: 删除
+  - id: 160
+    label: 视图
+  - id: 161
+    label: 重置视图
+  - id: 162
+    label: 同步视图
+  - id: 163
+    label: 设置中心点
+  - id: 164
+    label: 沿轴
+  - id: 190
+    label: 分析
+  - id: 191
+    label: 分子比对
